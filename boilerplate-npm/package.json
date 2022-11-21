@@ -8,6 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"description": "A project that does something awesome",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/redSlug/code-camp.git"

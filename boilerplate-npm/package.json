@@ -1,5 +1,5 @@
 {
-	"author": "Bradley Dettmer",
+	"author": {"email": "bdettmer@gmail.com", "name": "Bradley Dettmer", "url": "https://github.com/redslug"},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
